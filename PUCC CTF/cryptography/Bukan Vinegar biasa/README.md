@@ -15,5 +15,6 @@ Variant : <b>Beaufort Cipher</b>
 ## Flag
 <details>
 <summary>Tekan untuk melihat flag</summary>
-PUCC{mbak_ukhty_emang_bikin_adem_hati}
+    
+    PUCC{mbak_ukhty_emang_bikin_adem_hati}
 </details>

@@ -12,5 +12,6 @@ https://codebeautify.org/binary-string-converter
 ## Flag
 <details>
 <summary>Tekan untuk melihat flag</summary>
-PUCC{d0_y0u_r3memb3r_th1s_L3gend5?}
+    
+    PUCC{d0_y0u_r3memb3r_th1s_L3gend5?}
 </details>

@@ -11,5 +11,6 @@ Hex to string https://codebeautify.org/hex-string-converter
 ## Flag
 <details>
 <summary>Tekan untuk melihat flag</summary>
-PUCC{h3xadesim4L_n3ver_di3}
+    
+    PUCC{h3xadesim4L_n3ver_di3}
 </details>
